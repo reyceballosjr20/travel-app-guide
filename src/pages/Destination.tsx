@@ -80,7 +80,7 @@ const Destinations = () => {
       <footer className="py-8 border-t bg-card mt-12">
         <div className="container px-4 text-center">
           <p className="text-body text-muted-foreground">
-            © 2025 Discover Philippines. Your ultimate travel guide to the Pearl of the Orient Seas.
+            © 2026 Discover Philippines. Your ultimate travel guide to the Pearl of the Orient Seas. Created by John Mart Santiago.
           </p>
         </div>
       </footer>
